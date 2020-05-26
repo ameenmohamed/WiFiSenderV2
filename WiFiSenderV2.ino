@@ -44,8 +44,8 @@ long distance;
 
 
 #ifndef STASSID
-#define STASSID "eir97435682"
-#define STAPSK  "8tN5mThp5C"
+#define STASSID "XX"
+#define STAPSK  "XX"
 #endif
 
 const char* ssid     = STASSID;
