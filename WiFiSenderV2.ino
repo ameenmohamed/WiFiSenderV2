@@ -17,7 +17,7 @@ const int echoPin = 4;  //D3
 
 ESP8266WiFiMulti WiFiMulti;
 
-String CONFIGURL = "https://fluidlevel-910e0.firebaseio.com/config/w23k8y4-oiltank.json";
+String CONFIGURL = "https://myurl-oiltank.json";
 String unitID = "w23k8y4-oiltank";
 int RESPSIZE = 700;
 String  NOTIFY_ALERT_URL = "";
